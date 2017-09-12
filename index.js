@@ -1,4 +1,4 @@
 function main()
 {
-	console.log("toto")
+	console.log("toto");
 }
